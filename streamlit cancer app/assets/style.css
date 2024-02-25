@@ -1,0 +1,47 @@
+/* Container styling */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Anta&display=swap');
+
+*{
+  font-family: 'Anta', sans-serif;
+}
+
+
+
+.css-j5r0tf {
+  padding: 1rem;
+  border-radius: 0.5rem;
+  background-color: #f0f0f0; /* Light gray background */
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Drop shadow effect */
+}
+
+/* Diagnosis label styling */
+.diagnosis {
+  color: #fff;
+  padding: 0.5em 1em;
+  border-radius: 1em;
+  font-weight: bold;
+}
+
+/* Benign diagnosis styling */
+.diagnosis.benign {
+  background-color: #4CAF50; /* Green background */
+}
+
+/* Malicious diagnosis styling */
+.diagnosis.malicious {
+  background-color: #FF5722; /* Orange background */
+}
+
+/* Footer styling */
+.footer {
+  margin-top: 2rem;
+  text-align: center;
+  font-size: 0.8em;
+  color: #777; /* Gray text color */
+}
+
+.st-emotion-cache-1kyxreq.e115fcil2 img {
+  border-radius: 50%;
+}
