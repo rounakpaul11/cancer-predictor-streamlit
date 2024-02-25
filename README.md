@@ -9,7 +9,6 @@ This repository contains a Streamlit web application for predicting whether a br
 #### Installation
 #### Usage
 #### Contributing
-#### License
 #### Authors
 
 ### Features
@@ -50,8 +49,6 @@ This repository contains a Streamlit web application for predicting whether a br
 ### Contributing
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and create a pull request with your proposed changes.
 
-### License
-[Add license information here]
 
 ### Authors
 Rounak Paul
