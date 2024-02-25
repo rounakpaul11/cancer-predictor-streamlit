@@ -173,7 +173,7 @@ def main():
     layout="wide",
     initial_sidebar_state="expanded"
   )
-  st.image("app/cancer.jpg", width=80)
+  st.image("streamlitcancerapp/app/cancer.jpg", width=80)
   with open("assets/style.css") as f:
     st.markdown("<style>{}</style>".format(f.read()), unsafe_allow_html=True)
   
