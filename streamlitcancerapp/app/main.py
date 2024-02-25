@@ -174,7 +174,7 @@ def main():
     initial_sidebar_state="expanded"
   )
   st.image("streamlitcancerapp/app/cancer.jpg", width=80)
-  with open("assets/style.css") as f:
+  with open("streamlitcancerapp/assets/style.css") as f:
     st.markdown("<style>{}</style>".format(f.read()), unsafe_allow_html=True)
   
   input_data = add_sidebar()
